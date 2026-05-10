@@ -94,5 +94,3 @@ export default counterSlice.reducer;
 This project is licensed under the **MIT License** – free to use and modify.
 
 ---
-
-Would you like me to expand this README with **example Redux slices** (like Todo, Auth, Theme) or keep it minimal for now?
