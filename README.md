@@ -86,7 +86,7 @@ export default counterSlice.reducer;
 ## 👨‍💻 Author
 **Aryan Hapani**  
 📍 Gujarat, India  
-🔗 GitHub Profile [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FAryanhapani")
+🔗 GitHub Profile [(github.com in Bing)](https://github.com/Aryanhapani/reduxtoolkit)
 
 ---
 
